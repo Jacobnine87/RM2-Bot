@@ -1,0 +1,15 @@
+{
+  "name": "rm2-bot",
+  "version": "1.0.0",
+  "description": "Discord bot used for my Rich Media project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Nemeth",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "querystring": "^0.2.0"
+  }
+}
